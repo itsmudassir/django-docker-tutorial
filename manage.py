@@ -4,4 +4,4 @@ from datetime import datetime
 
 # Get and print the current time
 current_time = datetime.now()
-print("hello : ", current_time.strftime("%Y-%m-%d %H:%M:%S"))
+print("Patrick was here  : ", current_time.strftime("%Y-%m-%d %H:%M:%S"))
